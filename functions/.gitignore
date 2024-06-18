@@ -23,7 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Ignore Firebase Admin SDK service account credentials
-backend/roshi-health-firebase-adminsdk.json
+functions/roshi-health-firebase-adminsdk.json
 
 # Ignore environment variable files
 .env
